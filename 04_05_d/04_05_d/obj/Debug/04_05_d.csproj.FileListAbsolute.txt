@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\04_05_d\04_05_d\bin\Debug\04_05_d.exe.config
+C:\Users\user\source\repos\04_05_d\04_05_d\bin\Debug\04_05_d.exe
+C:\Users\user\source\repos\04_05_d\04_05_d\bin\Debug\04_05_d.pdb
+C:\Users\user\source\repos\04_05_d\04_05_d\obj\Debug\_04_05_d.Form1.resources
+C:\Users\user\source\repos\04_05_d\04_05_d\obj\Debug\_04_05_d.Properties.Resources.resources
+C:\Users\user\source\repos\04_05_d\04_05_d\obj\Debug\04_05_d.csproj.GenerateResource.cache
+C:\Users\user\source\repos\04_05_d\04_05_d\obj\Debug\04_05_d.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\04_05_d\04_05_d\obj\Debug\04_05_d.exe
+C:\Users\user\source\repos\04_05_d\04_05_d\obj\Debug\04_05_d.pdb
